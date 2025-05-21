@@ -1,0 +1,8 @@
+{
+  "name": "@tomo/typescript-config",
+  "version": "0.0.0",
+  "main": "tsconfig.base.json",
+  "files": [
+    "tsconfig.base.json"
+  ]
+}
