@@ -1,6 +1,7 @@
 {
   "extends": "@tomo/typescript-config/tsconfig.base.json",
   "compilerOptions": {
+    "module": "Node16",
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
